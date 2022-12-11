@@ -1,6 +1,7 @@
 # __[rsschool-cv](https://NikitaBrinzovik.github.io/rsschool-cv/)__
 
 # __Nikita Kuznetsov__
+![Screenshot_138](https://user-images.githubusercontent.com/75593249/206929752-6a3def01-2672-4ce4-9bb2-a31010ffb9a3.png)
 
 ## __Contacts__
 - __Location:__ 🌎 
