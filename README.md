@@ -1,4 +1,5 @@
 # rsschool-cv
+https://NikitaBrinzovik.github.io/rsschool-cv/cv
 
 ## Требования к репозиторию
 - Задание выполняется в вашем личном публичном репозитории
