@@ -9,7 +9,7 @@
 - __GitHub:__ [NikitaBrinzovik](https://github.com/NikitaBrinzovik)
 
 ## __About Me__
-I love BBQ
+I love BBQ and coding! I'm here just for fun and updating knowledges)
 
 ## __Skills__
 - TypeScript / JavaScript 
@@ -35,7 +35,7 @@ console.log('Hello world!');
 
 ## __Experience__
 - __WebTeam Studio:__ May 2021- January 2022
-- __Lanit:__ January 2022 - sill riding 
+- __Lanit:__ January 2022 - still riding 
 
 ## __Education__ 
 - __University:__ The Saint-Petersburg State University of Film and Television 2011-2015. Instrumentation engineer
