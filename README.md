@@ -1,6 +1,8 @@
 # rsschool-cv
+
 markdown CV:
 https://NikitaBrinzovik.github.io/rsschool-cv/cv
+
 HTML and CSS CV:
 https://NikitaBrinzovik.github.io/rsschool-cv/
 
