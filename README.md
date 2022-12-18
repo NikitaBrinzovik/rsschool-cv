@@ -1,5 +1,10 @@
 # rsschool-cv
+
+markdown CV:
 https://NikitaBrinzovik.github.io/rsschool-cv/cv
+
+HTML and CSS CV:
+https://NikitaBrinzovik.github.io/rsschool-cv/
 
 ## Требования к репозиторию
 - Задание выполняется в вашем личном публичном репозитории
